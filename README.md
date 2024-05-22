@@ -5,6 +5,7 @@
 - 논리적으로 개발하는 것을 좋아합니다.
 
 
+
 ### 🛠️ 기술
 
 #### 백앤드
@@ -20,6 +21,8 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </div>
+
+
 
 #### 툴
 <div>
