@@ -1,4 +1,8 @@
-## Hi there 👋
+## 안녕하세요. 개발자 변소윤입니다! 👋
+
+- 항상 성장하고 싶은 개발자입니다.
+- 성장하는 것을 좋아하며, 앞으로 더 다양한 경험을 하고 싶습니다.
+
 
 <!--
 **Dev-SoUni/Dev-Souni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
