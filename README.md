@@ -4,8 +4,7 @@
 - 성장하는 것을 좋아하며, 앞으로 더 다양한 경험을 하고 싶습니다.
 - 논리적으로 개발하는 것을 좋아합니다.
 
-
-
+<br/>
 ### 🛠️ 기술
 
 #### 백앤드
@@ -22,14 +21,13 @@
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </div>
 
-
-
 #### 툴
 <div>
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
+<br/>
 ### 📊 깃허브 상태
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Souni&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
