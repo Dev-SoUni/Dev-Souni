@@ -4,7 +4,7 @@
 - 성장하는 것을 좋아하며, 앞으로 더 다양한 경험을 하고 싶습니다.
 - 논리적으로 개발하는 것을 좋아합니다.
 
-## 💻 Interesting Contribution
+## 💻 오픈 소스 기여
 
 [![Aribnb](https://github-readme-stats.vercel.app/api/pin/?username=airbnb&repo=lottie-android&theme=dark&show_owner=true)](https://github.com/airbnb/lottie-android/pull/2509)
 
