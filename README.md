@@ -29,7 +29,3 @@
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
-
-## 📊 깃허브 상태
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Souni&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
