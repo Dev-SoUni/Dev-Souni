@@ -5,7 +5,7 @@ Turning ideas into real-world products 🚀
 
 ## 💻 오픈 소스 기여
 
-[![Aribnb](https://github-readme-stats.vercel.app/api/pin/?username=airbnb&repo=lottie-android&theme=dark&show_owner=true)](https://github.com/airbnb/lottie-android/pull/2509)
+[![Aribnb](https://avatars.githubusercontent.com/u/698437?s=200&v=4)](https://github.com/airbnb/lottie-android/pull/2509)
 
 ## 🛠️ 기술
 
