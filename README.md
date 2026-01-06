@@ -1,6 +1,6 @@
 ## 👋 안녕하세요!
 
-5년차 Full-stack Developer
+5년차 Developer<br/>
 Turning ideas into real-world products 🚀
 
 ## 💻 오픈 소스 기여
